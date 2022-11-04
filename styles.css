@@ -113,11 +113,10 @@ a:link{
     margin-top: 25px;
     background-color: white;
     padding:1px;
-/*     border:1px solid black  */
   }
   
   .caja{
-    widht:350px;
+    width:350px;
     height:350px;
     border:2px solid lightcyan;
     background-color:lightgray;
