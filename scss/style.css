@@ -1,9 +1,8 @@
 body {
-  /* background: url(./recursos/img/fondo2.jpg); */
   background-color: white;
 }
 
-/* NAVS */ /* YA NO LAS USO POR QUE USO EL NAV DE BOOSTRAP */
+/*      NAVS NO LAS USO PERO NO LAS BORRE PORQUE QUIERO USARLAS PRONTO  */
 a:visited {
   text-decoration: none;
   color: black;
@@ -19,7 +18,7 @@ a:hover {
 
 /*    INICIO   */
 form {
-  margin-top: 180px;
+  margin-top: 10px;
   display: flex;
   flex-direction: column;
   background: white;
@@ -27,7 +26,7 @@ form {
   padding: 20px 25px;
 }
 form label {
-  margin-bottom: 35px;
+  margin-bottom: 70px;
 }
 form input {
   outline: none;
@@ -133,4 +132,6 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-}/*# sourceMappingURL=style.css.map */
+}
+
+/* CONTACTOS *//*# sourceMappingURL=style.css.map */
